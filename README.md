@@ -5,6 +5,8 @@ Go言語　環境構築Tips
 ※構築環境はUbuntu14.04/2018年6月/
 　ベース環境やアップデートにより版数やコマンドが変わる可能性あります
 
+----
+■golang
 $ sudo apt-get update
 
 https://golang.org/dl/（Linuxの最新版をダウンロード）
@@ -24,6 +26,7 @@ $ go version
 ⇒go version go1.10.3 linux/amd64
 
 ----
+■gobotインストール
 https://gobot.io/documentation/platforms/tello/
 
 $ sudo apt-get install git
@@ -32,6 +35,14 @@ $ cd
 
 $ go get -d -u gobot.io/x/gobot/...
 
+$ ソースファイル作成
+
+$ go build "ファイル名.go"
+$ ./"実行ファイル"
+    or
+$ go run   "実行ファイル"
+
+----
 https://gobot.io/documentation/platforms/joystick/
 
 $ wget https://www.libsdl.org/release/SDL2-2.0.8.tar.gz
@@ -55,9 +66,6 @@ $ cd
 $ tar tvfz tello_project.tar.gz
 
 $ tar xvfz tello_project.tar.gz
-
-$ go build "ファイル名.go"
-
 
 ■参考
 ・tello_project.tar.gzを固めるとき

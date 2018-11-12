@@ -40,8 +40,11 @@ $ go get -d -u gobot.io/x/gobot/...
 $ ソースファイル作成
 
 $ go build "ファイル名.go"
+
 $ ./"実行ファイル"
+
     or
+
 $ go run   "実行ファイル"
 
 ----

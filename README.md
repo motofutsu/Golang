@@ -7,6 +7,7 @@ Go言語　環境構築Tips
 
 ----
 ■golang
+
 $ sudo apt-get update
 
 https://golang.org/dl/（Linuxの最新版をダウンロード）
@@ -27,6 +28,7 @@ $ go version
 
 ----
 ■gobotインストール
+
 https://gobot.io/documentation/platforms/tello/
 
 $ sudo apt-get install git

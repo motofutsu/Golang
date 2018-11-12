@@ -23,7 +23,10 @@ $ go version
 
 ⇒go version go1.10.3 linux/amd64
 
+----
 https://gobot.io/documentation/platforms/tello/
+
+$ sudo apt-get install git
 
 $ cd 
 

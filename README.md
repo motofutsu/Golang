@@ -6,7 +6,7 @@ Go言語　環境構築Tips
 　ベース環境やアップデートにより版数やコマンドが変わる可能性あります
 
 ----
-■golang
+■golangインストール
 
 $ sudo apt-get update
 

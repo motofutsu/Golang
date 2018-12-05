@@ -14,11 +14,9 @@ $ sudo apt-get update
 （Linuxの最新版をダウンロード）
 https://golang.org/dl/
 
-$ wget https://dl.google.com/go/go1.10.3.linux-amd64.tar.gz
-
 $ wget https://dl.google.com/go/go1.11.2.linux-amd64.tar.gz
 
-$ sudo tar -C /usr/local -xzf go1.10.3.linux-amd64.tar.gz
+$ sudo tar -C /usr/local -xzf go1.11.2.linux-amd64.tar.gz
 
 $ echo '# golang'                            >> ~/.bashrc
 
@@ -28,7 +26,7 @@ $ source ~/.bashrc
 
 $ go version
 
-⇒go version go1.10.3 linux/amd64
+⇒go version go1.11.2 linux/amd64
 
 ----
 ■gobotインストール

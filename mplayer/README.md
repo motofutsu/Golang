@@ -1,4 +1,5 @@
-■mplayer
+# 編集中
+# ■mplayer
 
 $ sudo apt-get install mplayer
 

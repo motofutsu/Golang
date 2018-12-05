@@ -2,15 +2,17 @@
 Go言語　環境構築Tips
 
 
-※構築環境はUbuntu14.04/2018年6月/
-　ベース環境やアップデートにより版数やコマンドが変わる可能性あります
+※構築環境はUbuntu14.04
+
+※ベース環境やアップデートにより版数やコマンドが変わる可能性あります
 
 ----
 ■golangインストール
 
 $ sudo apt-get update
 
-https://golang.org/dl/（Linuxの最新版をダウンロード）
+（Linuxの最新版をダウンロード）
+https://golang.org/dl/
 
 $ wget https://dl.google.com/go/go1.10.3.linux-amd64.tar.gz
 

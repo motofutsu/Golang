@@ -1,4 +1,5 @@
-■joystick
+#編集中
+#■joystick
 
 https://gobot.io/documentation/platforms/joystick/
 

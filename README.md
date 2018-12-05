@@ -7,6 +7,7 @@ Go言語/GOBOT　環境構築
 
 ----
 ■golangインストール
+----
 
 $ sudo apt-get update
 
@@ -29,6 +30,7 @@ $ go version
 
 ----
 ■gobotインストール
+----
 
 https://gobot.io/documentation/platforms/tello/
 
@@ -37,6 +39,7 @@ $ sudo apt-get install git
 $ cd 
 
 $ go get -d -u gobot.io/x/gobot/...
+
 ----
 
 $ ソースファイル作成

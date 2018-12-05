@@ -1,8 +1,7 @@
 # Golang
-Go言語　環境構築Tips
+Go言語/GOBOT　環境構築
 
-
-※構築環境はUbuntu14.04
+※構築環境のOSはUbuntu18.04
 
 ※ベース環境やアップデートにより版数やコマンドが変わる可能性あります
 
@@ -38,6 +37,7 @@ $ sudo apt-get install git
 $ cd 
 
 $ go get -d -u gobot.io/x/gobot/...
+----
 
 $ ソースファイル作成
 

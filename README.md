@@ -6,13 +6,12 @@ Go言語/GOBOT　環境構築
 ※ベース環境やアップデートにより版数やコマンドが変わる可能性あります
 
 ----
-■golangインストール
+■Go言語インストール
 ----
 
 $ sudo apt-get update
 
-（Linuxの最新版をダウンロード）
-https://golang.org/dl/
+（Linuxの最新版をダウンロード）https://golang.org/dl/
 
 $ wget https://dl.google.com/go/go1.11.2.linux-amd64.tar.gz
 
@@ -29,7 +28,7 @@ $ go version
 ⇒go version go1.11.2 linux/amd64
 
 ----
-■gobotインストール
+■GOBOTインストール
 ----
 
 https://gobot.io/documentation/platforms/tello/

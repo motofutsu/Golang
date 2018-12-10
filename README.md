@@ -10,7 +10,7 @@ Go言語/GOBOT　環境構築
 
 $ sudo apt-get update
 
-（Linuxの最新版をダウンロード）https://golang.org/dl/
+Linuxの最新版をダウンロード（https://golang.org/dl/）
 
 $ wget https://dl.google.com/go/go1.11.2.linux-amd64.tar.gz
 
@@ -45,6 +45,6 @@ $ ./"実行ファイル"
 
 または
 
-$ go run   "実行ファイル"
+$ go run "ファイル名.go"
 
 ----
